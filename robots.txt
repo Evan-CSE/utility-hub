@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://evan-shareef.github.io/utility-hub/sitemap.xml
+Sitemap: https://evan-cse.github.io/utility-hub/sitemap.xml
